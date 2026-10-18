@@ -1,0 +1,21 @@
+{
+    "api_key": "c16E0Cg2QDcvXyI4KGlHrQqlnykPUo0CSUicR37daDA2DBowa0fcADUyEta2K01z",
+    "api_secret": "4zzCwqeu9heNFCfGWdmWxiXX7ljBkxIwkhEVBwpoYOY72AQlTiMiu0g7xMnpdjSN",
+    "use_testnet": true,
+    "symbol": "BTC/USDT:USDT",
+    "timeframe_main": "15m",
+    "timeframe_pullback": "5m",
+    "timeframe_trigger": "1m",
+    "leverage": 40,
+    "margin_mode": "cross",
+    "order_margin_usdt": 500.0,
+    "stop_loss_pct": 0.9,
+    "take_profit_pct": 2.0,
+    "max_open_positions": 1,
+    "max_daily_loss_usdt": 50.0,
+    "auto_trade_enabled": true,
+    "ai_provider": "local_quant",
+    "ai_api_key": "",
+    "ai_model_name": "deepseek-chat",
+    "ai_analysis_interval_sec": 15
+}
